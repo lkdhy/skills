@@ -1,6 +1,6 @@
 # skills
 
-Personal agent skills.
+Agent skills that I share.
 
 ## Skills
 
